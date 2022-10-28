@@ -544,7 +544,7 @@ body {
 /* ----------------SUBSCRITION--------------- */
 
 .footer-subscription {
-  margin: 0px 0px 0px 92px;
+  margin: 0px 0px 0px auto;
 }
 
 .subscription-text {
